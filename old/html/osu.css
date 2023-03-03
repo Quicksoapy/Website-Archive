@@ -1,0 +1,134 @@
+@charset "utf-8";
+h5 {
+    text-align: left;
+    color: white;
+    text-shadow: 2px 2px 2px rgba(0,0,0,1.00);
+    font-size: large;
+    line-height: 9px;
+}
+
+h6 {
+	text-align: center;
+ 	color: #FFF;
+    text-shadow: 2px 2px 2px rgba(0,0,0,1.00);
+    font-size: large;
+}
+
+body {
+    background-color: rgba(23,23,23,1.00);
+	background-image: url("photos/lowcontrastleaves.jpeg");
+    background-size: cover;
+    background-repeat: repeat;
+    background-attachment: fixed;
+    overflow: auto;
+    background-position: center;
+}
+body h2 {
+    color: #1400FF;
+    text-align: center;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    font-weight: bold;
+    font-size: 39px;
+    margin-bottom: -1px;
+    border-bottom: 5px solid #00032D;
+	margin-left: 70px;
+    margin-right: 70px;
+}
+audio {
+    width: 250px;
+    height: 25px;
+}
+
+.center {
+  	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+	text-align: center; 
+}
+
+body h4 {
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    text-align: center;
+    color: #FFF;
+    font-size: large;
+	font-variant: normal;
+	font-weight: normal;
+	font-size: 25pt;
+	color: #FFFFFF;
+	text-shadow: 2px 2px black;
+}
+a{
+    color: #FFF;
+}
+body p {
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    font-variant: normal;
+    font-weight: normal;
+    font-size: 15pt;
+    color: #FFFFFF;
+	text-shadow: 2px 2px black;
+	text-align: center;
+	
+}
+
+li {
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    font-variant: normal;
+    font-weight: normal;
+    font-size: 15pt;
+    color: #FFFFFF;
+	text-shadow: 2px 2px black;
+}
+
+body h5 { 
+    color: #FFF;
+    text-shadow: 2px 2px 2px rgba(0,0,0,1.00);
+    font-size: large;
+}
+body blockquote {
+    color: #FFF;
+    font-size: large;
+    background-color: rgba(57,56,56,1.00);
+}
+.gaybar { 
+    display: block;
+  	margin: auto; 
+	text-align: center;
+    margin-bottom: 3px;
+}
+#title {
+    width: 20%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px rgba(11,22,1,1.00) solid;
+	background-color: rgba(11,22,1,0.4);
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	font-size: 20px;
+	color: white;
+	margin-bottom: 20px;
+}
+
+#title img {
+	width: 100%;
+	height: 87.5%;
+}
+
+.skin {
+	width: 40%;
+	height: 40%;
+	text-align: center;
+    background-color:rgba(57,55,29,0.5);
+    border: 2px black solid; 
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	font-size: 20px;
+	color: white;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.osuvideo {
+	width: 100%;
+	height: 100%;
+}
+

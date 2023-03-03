@@ -1,0 +1,20 @@
+@charset "utf-8";
+body { 
+    animation-name: party;
+    animation-duration: 0.90909090909090909090909090909090s;
+    animation-direction: normal;
+    animation-iteration-count: infinite;
+}
+
+@keyframes party {
+    0% {background-color: red;}
+    19.999% {background-color: red;}
+    20% {background-color: blue;}
+    39.999% {background-color: blue;}
+    40% {background-color: forestgreen;}
+    59.999% {background-color: forestgreen;}
+    60% {background-color: lightblue;}
+    79.999% {background-color: lightblue;}
+    80% {background-color: rebeccapurple;}
+    99.999% {background-color: rebeccapurple;}
+}

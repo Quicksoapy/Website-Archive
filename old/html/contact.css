@@ -1,0 +1,113 @@
+@charset "utf-8";
+h5 {
+    text-align: center;
+    color: orange;
+    text-shadow: 2px 2px 2px rgba(0,0,0,1.00);
+    font-size: large;
+    line-height: 9px;
+}
+
+h6 {
+    text-align: center;
+    color: orange;
+    text-shadow: 2px 2px 2px rgba(0,0,0,1.00);
+    font-size: large;
+    line-height: 9px;
+}
+
+body {
+    background-color: rgba(23,23,23,1.00);
+	background-image: url('photos/forest.jpg');
+    background-size: cover;
+    background-repeat: repeat;
+    background-attachment: fixed;
+    overflow: auto;
+    background-position: center;
+}
+
+#title {
+    width: 20%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:rgba(35,47,31,0.5);
+    border: 2px black solid; 
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	font-size: 20px;
+	color: white;
+	text-shadow: 2px 2px black;
+	margin-bottom: 20px;
+}
+
+#title img {
+	width: 100%;
+	height: 87.5%;
+}
+@media (min-width: 1920px) and (max-width: 2559px) {
+    h1 { margin-left: 600px; margin-right: 600px; }
+}
+@media (min-width: 2560px) {
+	h1 {margin-left: 1100px; margin-right: 1100px; }
+} 
+@media (min-width: 1280px) and (max-width: 1919px) {
+	h1 {margin-left: 500px; margin-right: 500px; }
+} 
+@media (min-width: 3840px) {
+	h1 {margin-left: 1700px; margin-right: 1700px; }
+	} 	
+h1 {
+    color: #1400FF;
+    text-align: center;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    font-weight: bold;
+    font-size: 39px;
+    margin-bottom: -1px;
+    border-bottom: 5px solid #00032D;
+    border-top-width: 5px;
+    border-right-width: 5px;
+    border-left-width: 5px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-left-style: solid;
+    border-radius: 30px / 0px;
+}
+body h6 {
+    text-align: center;
+    color: #085BB1;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    font-style: normal;
+    font-size: 1.5em;
+    list-style-position: outside;
+}
+body img {
+    width: 401px;
+}
+h4 {
+    text-decoration: line-through;
+}
+body p {
+   font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    font-variant: normal;
+    font-weight: normal;
+    font-size: 15pt;
+    color: #FFFFFF;
+	text-shadow: 2px 2px black;
+	text-align: center;
+}
+body h3 {
+    text-align: center;
+    color: #FFF;
+    text-shadow: 2px 2px 2px rgba(0,0,0,1.00);
+    font-size: large;
+}
+a{
+    color: #FFF;
+}
+.contactform { 
+	text-align: center;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    font-variant: normal;
+    font-weight: normal;
+    font-size: 15pt;
+    color: #FFFFFF;
+}

@@ -1,0 +1,55 @@
+@charset "utf-8";
+h5 {
+    text-align: center;
+    color: orange;
+    text-shadow: 2px 2px 2px rgba(0,0,0,1.00);
+    font-size: large;
+    line-height: 9px;
+}
+
+h6 {
+    text-align: center;
+    color: orange;
+    text-shadow: 2px 2px 2px rgba(0,0,0,1.00);
+    font-size: large;
+    line-height: 9px;
+}
+
+body {
+    background-color: rgba(23,23,23,1.00);
+	background-image: url('photos/backgroundvaporwave2.jpg');
+    background-size: cover;
+    background-repeat: repeat;
+    background-attachment: fixed;
+    overflow: auto;
+    background-position: center;
+}
+h1 { 
+	color: #1400FF;
+    text-align: center;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    font-weight: bold;
+    font-size: 39px;
+    margin-bottom: -1px;
+	margin-left: 70px;
+    margin-right: 70px;
+}
+.ass { 
+	margin-top: 9999%;
+}
+.gallery {
+    text-align: center;
+}
+.selfie {
+	text-align: center;
+	margin-top:5000px;
+}
+.thegay1 {
+	margin-top:500px;
+}
+p {
+	font-size:30px;
+	color: aliceblue;
+	text-align: center;
+}
+

@@ -1,0 +1,203 @@
+@charset "utf-8";
+h5 {
+    text-align: center;
+    color: orange;
+    text-shadow: 2px 2px 2px rgba(0,0,0,1.00);
+    font-size: large;
+    line-height: 9px;
+}
+h6 {
+    text-align: center;
+    color: orange;
+    text-shadow: 2px 2px 2px rgba(0,0,0,1.00);
+    font-size: large;
+    line-height: 9px;
+}
+body {
+    background-color: rgba(23,23,23,1.00);
+	background-image: url('photos/desert.jpg');
+    background-size: cover;
+    background-repeat: repeat;
+    background-attachment: fixed;
+    overflow: auto;
+    background-position: center;
+}
+body h2 {
+    color: #1400FF;
+    text-align: center;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    font-weight: bold;
+    font-size: 39px;
+    margin-bottom: -1px;
+    border-bottom: 5px solid #00032D;
+	margin-left: 70px;
+    margin-right: 70px;
+}
+audio {
+    width: 250px;
+    height: 25px;
+}
+
+.center {
+  	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+	text-align: center; 
+}
+
+body h4 {
+    text-align: center;
+    color: #FFF;
+    text-shadow: 2px 2px 2px rgba(0,0,0,1.00);
+    font-size: large;
+}
+a{
+    color: #FFF;
+}
+body p {
+    color: #fff;
+}
+body h5 { 
+    color: #FFF;
+    text-shadow: 2px 2px 2px rgba(0,0,0,1.00);
+    font-size: large;
+}
+body blockquote {
+    color: #FFF;
+    font-size: large;
+    background-color: rgba(57,56,56,1.00);
+}
+.gaybar { 
+    display: block;
+  	margin: auto; 
+	text-align: center;
+    margin-bottom: 3px;
+}
+#title {
+    width: 20%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:rgba(57,55,29,0.5);
+    border: 2px black solid; 
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	font-size: 20px;
+	color: white;
+	margin-bottom: 20px;
+}
+
+#title img {
+	width: 100%;
+	height: 87.5%;
+}
+#photo1 {
+	width: 40%;
+	height: 40%;
+	text-align: center;
+    background-color:rgba(57,55,29,0.5);
+    border: 2px black solid; 
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	font-size: 20px;
+	color: white;
+	margin-right: 5px;
+	display: block;
+}
+
+#photo2 {
+	width: 40%;
+	height: 40%;
+	text-align: center;
+    background-color:rgba(57,55,29,0.5);
+    border: 2px black solid; 
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	font-size: 20px;
+	color: white;
+	margin-left: 5px;
+	display: block;	
+}
+
+#photo3 {
+	width: 40%;
+	height: 40%;
+	text-align: center;
+    background-color:rgba(57,55,29,0.5);
+    border: 2px black solid; 
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	font-size: 20px;
+	color: white;
+	margin-right: 5px;
+	display: block;	
+}
+
+#photo4 {
+	width: 40%;
+	height: 40%;
+	text-align: center;
+    background-color:rgba(57,55,29,0.5);
+    border: 2px black solid; 
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	font-size: 20px;
+	color: white;
+	margin-left: 5px;
+	display: block;	
+}
+
+#photos1 {
+	width: 80%;
+	height: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	align-content: center;
+	display: flex;
+	justify-content: center;
+}
+
+#photos1 img {
+	width: 100%;
+	height: 100%;
+}
+
+#photos2 {
+	width: 80%;
+	height: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	align-content: center;
+	display: flex;
+	justify-content: center;
+	margin-top: 10px;
+}
+
+#photos2 img {
+	width: 100%;
+	height: 100%;
+}
+#video {
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+	width: 32%;
+	height: 32%;
+	text-align: center;
+    background-color:rgba(57,55,29,0.5);
+    border: 2px black solid; 
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	font-size: 20px;
+	color: white;
+}
+
+#banner {
+    margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+    margin-bottom: 10px;
+	width: 65%;
+	height: 100%;
+	text-align: center;
+    background-color:black;
+    border: 2px black solid; 
+}
+#banner img {
+    width: 100%;
+    height: 100%;
+}
